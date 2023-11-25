@@ -1,0 +1,20 @@
+@import 'animate.css';
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&family=Quicksand:wght@300&display=swap");
+
+.mainHeader{
+  color:white;
+  font-family: 'Aclonica', sans-serif;
+
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeInDown; 
+  animation-duration: 2s; 
+}
+
+.subHeader{
+  color:white;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: bolder; 
+}
+
